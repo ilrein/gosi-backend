@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/gosiBackend",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "lVl4Ha5fYlAxILY34U5ASkn+DaxZGydrg311bejAXrM40B5BiB1Vat1MS+YUEF7vw8qZxoXZcyT/wFYqDqFWMA=="
+    },
+    "local": {}
+  }
+}
